@@ -5,4 +5,4 @@
 
 #0.1.1
 
-- Integrated with Travis CI
+- Integrated build with Travis CI
