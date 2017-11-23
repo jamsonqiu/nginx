@@ -5,7 +5,7 @@ addons:
   apt:
     sources:
       - chef-stable-trusty
-    package:
+    packages:
       - chefdk
 
 services: docker
