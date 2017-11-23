@@ -1,6 +1,6 @@
 # nginx
 
-cookbook insatlls and configures a simple website using nginx
+cookbook installs and configures a simple website using nginx
 
 Usage:
 ======
